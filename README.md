@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-🦐 Me chamo Matheo Rafael, sou um garoto trans de 15 anos 
+🦐 Meu nome social é Matheo Rafael, sou um garoto trans de 15 anos
 
 🍤 2/3 desenvolvimentos de sistemas
 

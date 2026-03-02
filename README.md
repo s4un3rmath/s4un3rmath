@@ -1,4 +1,4 @@
-## Hi there 👋
+## hii 🦐
 
 <!--
 **s4un3rmath/s4un3rmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

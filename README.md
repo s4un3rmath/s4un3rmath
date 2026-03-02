@@ -5,12 +5,23 @@
 
 Here are some ideas to get you started:
 
-##I’m currently working on mangás!
-- 🌱 I’m currently learning some programs like javascript or others like this in system development
-- 🤔 I’m looking for help with learn systems
-- 💬 Ask me about comics and arts!
-- 📫 How to reach me: maria.sauner.lacerda@escola.pr.gov.br
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i want to be a mangaka and i'am a transboy :)
 -->
-......
+🦐 Me chamo Matheo Rafael, sou um garoto trans de 15 anos 
+
+🍤 2/3 desenvolvimentos de sistemas
+
+🦐 2/2 informatica basica
+
+🍤 1/2 inglês
+
+🦐 introdução a computação foi a matéria que mais gostei até agora no curso
+
+🍤 Eu gosto muito de desenhar, principalmente mangás, gosto de escutar músia e gosto de camarões
+
+<div align= "center">
+
+ ### Linguagens:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ebebeb)
+  ![CSS3](https://img.shields.io/badge/-CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)

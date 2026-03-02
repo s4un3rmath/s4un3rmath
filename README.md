@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 🍤 Eu gosto muito de desenhar, principalmente mangás, gosto de escutar músia e gosto de camarões
 
+🦐 maria.sauner.lacerda@escola.pr.gov.br
+
 <div align= "center">
 
  ### Linguagens:

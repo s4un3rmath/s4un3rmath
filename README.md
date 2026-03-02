@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on mangás!
+## I’m currently working on mangás!
 - 🌱 I’m currently learning some programs like javascript or others like this in system development
 - 🤔 I’m looking for help with learn systems
 - 💬 Ask me about comics and arts!
